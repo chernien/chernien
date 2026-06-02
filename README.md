@@ -61,7 +61,7 @@ Currently working at **Mediasoft**, delivering real-world projects in healthcare
 
 ## 💼 Experience
 
-🏢 **Mediasoft** — Fullstack Developer *(2024 – Present)*
+🏢 **Mediasoft** — Fullstack Developer *(2025/01 – Present)*
 - Cross-platform mobile app with Ionic + Angular + Capacitor (Novopharma)
 - ASP.NET Core REST APIs + Angular frontends (TTN Platform)
 - Flutter mobile application deployed in production (MS-BC)
