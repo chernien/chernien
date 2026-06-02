@@ -96,7 +96,7 @@ Currently working at **Mediasoft**, delivering real-world projects in healthcare
 | | |
 |---|---|
 | 💼 LinkedIn | [linkedin.com/in/amine-cherni](https://linkedin.com/in/amine-cherni) |
-| 🌍 Location | Morocco — Open to Remote & Relocation 🇫🇷 |
+| 🌍 Location | Ariana - Tunisie |
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" />
