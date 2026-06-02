@@ -49,24 +49,27 @@ Currently working at **Mediasoft**, delivering real-world projects in healthcare
 
 ## 📌 Featured Projects
 
-| Project | Stack | Type |
-|---|---|---|
-| 🌐 TTN Platform | .NET · C# · Angular · TypeScript | 🏢 Professional |
-| 🏋️ Fitness Flow | Spring Boot · Angular · Python ML | 🎓 Academic |
-| 💊 Novopharma | Ionic · Angular · Capacitor | 🏢 Professional |
-| 📱 MS-BC App | Flutter · Dart | 🏢 Professional |
-| 📦 Stock Management | Angular 17 · Spring Boot | 🎓 Academic |
+| Project | Description | Stack | Type |
+|---|---|---|---|
+| 🌐 [TTN Platform](https://github.com/chernien/ttn-backend) | Enterprise web platform with full REST API | .NET · C# · Angular · TypeScript | 🏢 Mediasoft |
+| 💊 [Novopharma](https://github.com/chernien/novopharma) | Cross-platform pharma management mobile app | Ionic · Angular · Capacitor | 🏢 Mediasoft |
+| 📱 [MS-BC App](https://github.com/chernien/MS-BC) | Professional Flutter mobile application | Flutter · Dart | 🏢 Mediasoft |
+| ☪️ [Haroon](https://github.com/chernien/Haroon) | Islamic short-video app inspired by TikTok | Flutter · Dart | 🏢 MK-Consulting |
+| 🏋️ [Fitness Flow](https://github.com/chernien/fitness-flow) | Fullstack fitness platform with ML recommendations | Spring Boot · Angular · Python | 🎓 Academic |
 
 ---
 
 ## 💼 Experience
 
-🏢 **Mediasoft** — Fullstack Developer (2024 – Present)
-- Cross-platform mobile app with Ionic + Angular + Capacitor
-- ASP.NET Core REST APIs consumed by Angular frontends
-- Flutter mobile application deployed in production
+🏢 **Mediasoft** — Fullstack Developer *(2024 – Present)*
+- Cross-platform mobile app with Ionic + Angular + Capacitor (Novopharma)
+- ASP.NET Core REST APIs + Angular frontends (TTN Platform)
+- Flutter mobile application deployed in production (MS-BC)
 
-🎓 **SNDP** — Fullstack Developer Intern (2023 – 2024)
+🏢 **MK-Consulting** — Flutter Developer
+- Developed Haroon, an Islamic short-video platform (TikTok-style) built with Flutter
+
+🎓 **SNDP** — Fullstack Developer Intern *(2023 – 2024)*
 - Vehicle fleet management app in Angular + TypeScript
 
 ---
