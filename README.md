@@ -13,9 +13,9 @@
 
 ## 👨‍💻 À propos de moi
 
-Développeur **Fullstack passionné** avec 1,5+ ans d’expérience dans la conception et le développement d’applications web et mobiles en production.
+Développeur **Fullstack passionné** avec 1,5+ ans d'expérience dans la conception et le développement d'applications web et mobiles en production.
 
-Je maîtrise l’ensemble de la chaîne de développement — de la création d’interfaces Angular/Ionic réactives jusqu’à la conception d’APIs robustes en ASP.NET Core et Spring Boot, en passant par le développement d’applications mobiles cross-platform avec Flutter.
+Je maîtrise l'ensemble de la chaîne de développement — de la création d'interfaces Angular/Ionic réactives jusqu'à la conception d'APIs robustes en ASP.NET Core et Spring Boot, en passant par le développement d'applications mobiles cross-platform avec Flutter.
 
 Actuellement en poste chez **Mediasoft**, je contribue à des projets réels dans les domaines de la **facturation électronique**, de la **signature numérique**, de la **santé** et du **mobile**.
 
@@ -55,28 +55,29 @@ Actuellement en poste chez **Mediasoft**, je contribue à des projets réels dan
 
 | Projet | Description | Technologies | Contexte |
 |---|---|---|---|
-| 🔐 [MediaFact Desktop](https://github.com/chernien/MediaFact-desktopApp) | Application desktop de facturation électronique avec signature numérique XAdES | WPF · C# · .NET | 🏢 Mediasoft |
-| 🔐 MediaFact Backend | API REST — facturation électronique, signature XAdES, QR Code, intégration ERP | ASP.NET Core · C# · SQL Server | 🔒 Mediasoft (Privé) |
+| 🔏 [MediaFact Desktop](https://github.com/chernien/MediaFact-desktopApp) | Application desktop de facturation électronique avec signature numérique XAdES | WPF · C# · .NET | 🏢 Mediasoft |
+| 🔏 MediaFact Backend | API REST — facturation électronique, signature XAdES, QR Code, intégration ERP | ASP.NET Core · C# · SQL Server | 🔒 Mediasoft (Privé) |
 | 💊 [Novopharma](https://github.com/chernien/novopharma) | Application mobile cross-platform de gestion pharmaceutique | Ionic · Angular · Capacitor | 🏢 Mediasoft |
-| 🌐 TTN Platform | Plateforme web enterprise avec API REST complète | .NET · C# · Angular | 🔒 Mediasoft (Privé) |
+| 🌐 TTN Platform | Plateforme web enterprise avec API REST — **🚧 En cours de développement** | .NET · C# · Angular | 🔒 Mediasoft (Privé) |
 | ☪️ [Haroon](https://github.com/chernien/Haroon) | Application mobile de contenu islamique court — inspirée de TikTok | Flutter · Dart | 🏢 MK-Consulting |
 | 🏋️ [Fitness Flow](https://github.com/chernien/fitness-flow) | Plateforme fitness fullstack avec recommandations par IA | Spring Boot · Angular · Python | 🎓 Académique |
 
-> 🔒 Les projets marqués **Privé** contiennent du code métier propriétaire (signature électronique, données sensibles).
-> Le code source est disponible **sur demande lors d’entretiens techniques**.
+> 🔒 Les projets marqués **Privé** contiennent du code métier propriétaire.
+> Le code source est disponible **sur demande lors d'entretiens techniques**.
 
 ---
 
 ## 💼 Expériences Professionnelles
 
 ```
-🏢  Mediasoft                                           2024 – Aujourd’hui
+🏢  Mediasoft                                           2024 – Aujourd'hui
     Développeur Fullstack
     → Plateforme de facturation électronique + signature numérique (XAdES)
     → Application desktop WPF (MediaFact) + API ASP.NET Core
     → Application mobile cross-platform (Ionic + Angular + Capacitor)
-    → Application Flutter mobile deployée en production
+    → Application Flutter mobile déployée en production
     → Intégration ERP (DIVALTO, Sage, Wave)
+    → Plateforme web TTN (en cours 🚧)
 
 🏢  MK-Consulting                                       2024
     Développeur Flutter
@@ -98,11 +99,11 @@ Actuellement en poste chez **Mediasoft**, je contribue à des projets réels dan
 
 ---
 
-## 🌱 En cours d’apprentissage
+## 🌱 En cours d'apprentissage
 
 - **Docker & Kubernetes** — conteneurisation et pipelines CI/CD
 - **Architecture Propre** — DDD appliqué à .NET et Spring Boot
-- **Flutter Avancé** — gestion d’état avec Riverpod / BLoC
+- **Flutter Avancé** — gestion d'état avec Riverpod / BLoC
 
 ---
 
@@ -111,11 +112,11 @@ Actuellement en poste chez **Mediasoft**, je contribue à des projets réels dan
 | | |
 |---|---|
 | 💼 LinkedIn | [linkedin.com/in/amine-cherni](https://linkedin.com/in/amine-cherni) |
-| 🌍 Localisation | Maroc 🇲🇦 — Disponible en Remote & Relocation 🇫🇷 |
+| 📍 Localisation | Ariana, Tunisie 🇹🇳 |
 
 <div align="center">
 
-> *« Écrire du code propre, c’est respecter ceux qui viendront après vous. »*
+> *« Écrire du code propre, c'est respecter ceux qui viendront après vous. »*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" />
 </div>
