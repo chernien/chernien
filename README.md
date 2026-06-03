@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Amine%20Cherni&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20.NET%20%C2%B7%20Angular%20%C2%B7%20Flutter&descAlignY=55&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Cherni%20Amine&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=D%C3%A9veloppeur%20Fullstack%20%7C%20.NET%20%C2%B7%20Angular%20%C2%B7%20Flutter&descAlignY=55&descSize=20" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E57F7&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%F0%9F%9A%80;.NET+%2F+ASP.NET+Core+%E2%9C%94;Angular+%2B+Ionic+%2B+Capacitor+%E2%9C%94;Flutter+Mobile+Developer+%E2%9C%94;Always+learning%2C+always+building+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6E57F7&center=true&vCenter=true&width=650&lines=D%C3%A9veloppeur+Fullstack+%F0%9F%9A%80;.NET+%2F+ASP.NET+Core+%E2%9C%94;Angular+%2B+Ionic+%2B+Capacitor+%E2%9C%94;Flutter+%2B+Dart+%E2%9C%94;Toujours+apprendre%2C+toujours+cr%C3%A9er+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amine-cherni)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chernien)
@@ -11,15 +11,17 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 À propos de moi
 
-I'm a passionate **Fullstack Developer** with 1.5+ years of hands-on experience building production-ready web and mobile applications. I work across the full stack — from crafting responsive Angular/Ionic frontends to designing robust .NET and Spring Boot backends, and shipping cross-platform Flutter apps.
+Développeur **Fullstack passionné** avec 1,5+ ans d’expérience dans la conception et le développement d’applications web et mobiles en production.
 
-Currently working at **Mediasoft**, delivering real-world projects in healthcare platforms, stock management, and mobile applications.
+Je maîtrise l’ensemble de la chaîne de développement — de la création d’interfaces Angular/Ionic réactives jusqu’à la conception d’APIs robustes en ASP.NET Core et Spring Boot, en passant par le développement d’applications mobiles cross-platform avec Flutter.
+
+Actuellement en poste chez **Mediasoft**, je contribue à des projets réels dans les domaines de la **facturation électronique**, de la **signature numérique**, de la **santé** et du **mobile**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack Technique
 
 ### Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -35,46 +37,59 @@ Currently working at **Mediasoft**, delivering real-world projects in healthcare
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Mobile
+### Mobile & Desktop
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### Tools
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### Base de données & Outils
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projets Phares
 
-| Project | Description | Stack | Type |
+| Projet | Description | Technologies | Contexte |
 |---|---|---|---|
-| 🌐 [TTN Platform](https://github.com/chernien/ttn-backend) | Enterprise web platform with full REST API | .NET · C# · Angular · TypeScript | 🏢 Mediasoft |
-| 💊 [Novopharma](https://github.com/chernien/novopharma) | Cross-platform pharma management mobile app | Ionic · Angular · Capacitor | 🏢 Mediasoft |
-| 📱 [MS-BC App](https://github.com/chernien/MS-BC) | Professional Flutter mobile application | Flutter · Dart | 🏢 Mediasoft |
-| ☪️ [Haroon](https://github.com/chernien/Haroon) | Islamic short-video app inspired by TikTok | Flutter · Dart | 🏢 MK-Consulting |
-| 🏋️ [Fitness Flow](https://github.com/chernien/fitness-flow) | Fullstack fitness platform with ML recommendations | Spring Boot · Angular · Python | 🎓 Academic |
+| 🔐 [MediaFact Desktop](https://github.com/chernien/MediaFact-desktopApp) | Application desktop de facturation électronique avec signature numérique XAdES | WPF · C# · .NET | 🏢 Mediasoft |
+| 🔐 MediaFact Backend | API REST — facturation électronique, signature XAdES, QR Code, intégration ERP | ASP.NET Core · C# · SQL Server | 🔒 Mediasoft (Privé) |
+| 💊 [Novopharma](https://github.com/chernien/novopharma) | Application mobile cross-platform de gestion pharmaceutique | Ionic · Angular · Capacitor | 🏢 Mediasoft |
+| 🌐 TTN Platform | Plateforme web enterprise avec API REST complète | .NET · C# · Angular | 🔒 Mediasoft (Privé) |
+| ☪️ [Haroon](https://github.com/chernien/Haroon) | Application mobile de contenu islamique court — inspirée de TikTok | Flutter · Dart | 🏢 MK-Consulting |
+| 🏋️ [Fitness Flow](https://github.com/chernien/fitness-flow) | Plateforme fitness fullstack avec recommandations par IA | Spring Boot · Angular · Python | 🎓 Académique |
+
+> 🔒 Les projets marqués **Privé** contiennent du code métier propriétaire (signature électronique, données sensibles).
+> Le code source est disponible **sur demande lors d’entretiens techniques**.
 
 ---
 
-## 💼 Experience
+## 💼 Expériences Professionnelles
 
-🏢 **Mediasoft** — Fullstack Developer *(2025/01 – Present)*
-- Cross-platform mobile app with Ionic + Angular + Capacitor (Novopharma)
-- ASP.NET Core REST APIs + Angular frontends (TTN Platform)
-- Flutter mobile application deployed in production (MS-BC)
+```
+🏢  Mediasoft                                           2024 – Aujourd’hui
+    Développeur Fullstack
+    → Plateforme de facturation électronique + signature numérique (XAdES)
+    → Application desktop WPF (MediaFact) + API ASP.NET Core
+    → Application mobile cross-platform (Ionic + Angular + Capacitor)
+    → Application Flutter mobile deployée en production
+    → Intégration ERP (DIVALTO, Sage, Wave)
 
-🏢 **MK-Consulting** — Flutter Developer
-- Developed Haroon, an Islamic short-video platform (TikTok-style) built with Flutter
+🏢  MK-Consulting                                       2024
+    Développeur Flutter
+    → Haroon : application de vidéos islamiques courtes (style TikTok)
 
-🎓 **SNDP** — Fullstack Developer Intern *(2023 – 2024)*
-- Vehicle fleet management app in Angular + TypeScript
+🎓  SNDP — Stage                                        2023 – 2024
+    Développeur Fullstack Stagiaire
+    → Application de gestion de parc automobile (Angular + TypeScript)
+```
 
 ---
 
-## 📈 GitHub Stats
+## 📊 Statistiques GitHub
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=chernien&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
@@ -83,21 +98,24 @@ Currently working at **Mediasoft**, delivering real-world projects in healthcare
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 En cours d’apprentissage
 
-- **Docker & Kubernetes** — containerization & CI/CD
-- **Clean Architecture** — DDD with .NET & Spring Boot
-- **Advanced Flutter** — Riverpod / BLoC state management
+- **Docker & Kubernetes** — conteneurisation et pipelines CI/CD
+- **Architecture Propre** — DDD appliqué à .NET et Spring Boot
+- **Flutter Avancé** — gestion d’état avec Riverpod / BLoC
 
 ---
 
-## 📫 Contact
+## 📫 Me contacter
 
 | | |
 |---|---|
 | 💼 LinkedIn | [linkedin.com/in/amine-cherni](https://linkedin.com/in/amine-cherni) |
-| 🌍 Location | Ariana - Tunisie |
+| 🌍 Localisation | Maroc 🇲🇦 — Disponible en Remote & Relocation 🇫🇷 |
 
 <div align="center">
+
+> *« Écrire du code propre, c’est respecter ceux qui viendront après vous. »*
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" />
 </div>
