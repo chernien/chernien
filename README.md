@@ -21,7 +21,7 @@
 Currently at **Mediasoft** (Tunisia) — I design and deliver end-to-end solutions in the domains of **electronic invoicing**, **ERP integration**, **cross-platform mobile**, and **enterprise desktop**. I work across the full stack: Angular frontends, ASP.NET Core APIs, Flutter/Ionic mobile apps, and WPF desktop applications.
 
 - 🏢 **Mediasoft** — Fullstack Developer (2024 – present)
-- 🔏 Specialist in **XAdES digital signatures** & **e-invoicing compliance**
+- 🔏 Developer of **XAdES digital signatures** & **e-invoicing compliance**
 - 📱 Mobile-first: **Flutter** (production) + **Ionic + Capacitor** (production)
 - 🔗 **ERP integrations**: SAGE, DIVALTO, Wave
 - 🌍 Based in **Ariana, Tunisia** — open to remote opportunities
