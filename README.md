@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=210&section=header&text=Cherni%20Amine&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Developer%20%7C%20.NET%20%C2%B7%20Angular%20%C2%B7%20Flutter&descAlignY=56&descSize=22" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=210&section=header&text=Cherni%20Amine&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Ingénieur%20Fullstack%20%7C%20.NET%20%C2%B7%20Angular%20%C2%B7%20Flutter&descAlignY=56&descSize=22" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=620&lines=Fullstack+Developer+%7C+1.5%2B+yrs+production+exp;ASP.NET+Core+%2B+Angular+%2B+Flutter+%2B+Ionic;E-invoicing+%7C+XAdES+%7C+ERP+integrations;Building+real+software+in+Tunisia+%F0%9F%87%B9%F0%9F%87%B3)](https://github.com/chernien)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=660&lines=Ingénieur+Fullstack+%7C+1%2C5+an+d%27expérience+en+prod;ASP.NET+Core+%2B+Angular+%2B+Flutter+%2B+Ionic;Facturation+électronique+%7C+XAdES+%7C+ERP;Je+livre+des+applications+réelles+en+Tunisie+%F0%9F%87%B9%F0%9F%87%B3)](https://github.com/chernien)
 
 <br/>
 
@@ -14,21 +14,21 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 À propos de moi
 
-> Fullstack developer shipping **production applications** from day one.
+> Développeur fullstack qui **livre des applications en production** dès le premier jour.
 
-Currently at **Mediasoft** (Tunisia) — I design and deliver end-to-end solutions in the domains of **electronic invoicing**, **ERP integration**, **cross-platform mobile**, and **enterprise desktop**. I work across the full stack: Angular frontends, ASP.NET Core APIs, Flutter/Ionic mobile apps, and WPF desktop applications.
+Actuellement chez **Mediasoft** (Tunisie) — je conçois et délivre des solutions de bout en bout dans les domaines de la **facturation électronique**, de l'**intégration ERP**, du **mobile cross-platform** et du **desktop enterprise**. J'interviens sur l'ensemble de la chaîne : frontends Angular, APIs ASP.NET Core, applications mobiles Flutter/Ionic, et applications desktop WPF.
 
-- 🏢 **Mediasoft** — Fullstack Developer (2024 – present)
-- 🔏 Developer of **XAdES digital signatures** & **e-invoicing compliance**
-- 📱 Mobile-first: **Flutter** (production) + **Ionic + Capacitor** (production)
-- 🔗 **ERP integrations**: SAGE, DIVALTO, Wave
-- 🌍 Based in **Ariana, Tunisia** — open to remote opportunities
+- 🏢 **Mediasoft** — Développeur Fullstack (2024 – aujourd'hui)
+- 🔏 Spécialiste en **signatures numériques XAdES** & **conformité facturation électronique**
+- 📱 Mobile-first : **Flutter** (production) + **Ionic + Capacitor** (production)
+- 🔗 **Intégrations ERP** : SAGE, DIVALTO, Wave
+- 🌍 Basé à **Ariana, Tunisie** — ouvert aux opportunités remote
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack Technique
 
 <div align="center">
 
@@ -51,12 +51,12 @@ Currently at **Mediasoft** (Tunisia) — I design and deliver end-to-end solutio
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Desktop**
+**Desktop & Natif**
 
 ![WPF](https://img.shields.io/badge/WPF-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
 
-**Data & DevOps**
+**Données & DevOps**
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -68,112 +68,113 @@ Currently at **Mediasoft** (Tunisia) — I design and deliver end-to-end solutio
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projets Phares
 
-### 💊 Novopharma Inventaire — Full Ecosystem
+### 💊 Novopharma Inventaire — Écosystème Complet
 
-> Complete pharmaceutical inventory management system — from field scanning to ERP synchronization.
-> Three production-grade applications sharing one API and one SQL Server database.
+> Système complet de gestion d'inventaire pharmaceutique — de la saisie terrain jusqu'à la synchronisation ERP.
+> Trois applications de niveau production partageant une seule API et une base SQL Server.
 
 <div align="center">
 
 ```
 ┌─────────────────────┐        ┌──────────────────────┐
-│   📱 Mobile App     │        │   📊 Web Dashboard   │
-│  Ionic · Angular    │        │     Angular 19       │
-│    Capacitor        │        │  TypeScript · RxJS   │
-│  (field scanning)   │        │  (admin & reports)   │
+│   📱 Application    │        │   📊 Dashboard Web   │
+│   Mobile            │        │     Angular 19       │
+│  Ionic · Angular    │        │  TypeScript · RxJS   │
+│    Capacitor        │        │  (admin & rapports)  │
+│  (saisie terrain)   │        │                      │
 └──────────┬──────────┘        └──────────┬───────────┘
            │           HTTP / JWT          │
            └──────────────┬───────────────┘
                           ▼
           ┌───────────────────────────────┐
-          │     🔧 ASP.NET Core 8 API     │
-          │   JWT Auth · EF Core · Swagger│
-          │   Excel import/export         │
+          │     🔧 API ASP.NET Core 8     │
+          │   Auth JWT · EF Core · Swagger│
+          │   Import/Export Excel         │
           └───────────────┬───────────────┘
                           ▼
           ┌───────────────────────────────┐
-          │    🗄️ SQL Server + SAGE ERP   │
+          │    🗄️ SQL Server + ERP SAGE   │
           └───────────────────────────────┘
 ```
 
 </div>
 
-| Component | Role | Stack | Link |
+| Composant | Rôle | Stack | Lien |
 |-----------|------|-------|------|
-| 📱 **Mobile** | Field scanning — barcodes, batches, expiry tracking | Ionic · Angular · Capacitor | [View →](https://github.com/chernien/novopharma-inventaire-mobileApp) |
-| 📊 **Dashboard** | Admin, dual-count control, discrepancy reports, PDF/Excel | Angular 19 · TypeScript | [View →](https://github.com/chernien/novopharma-inventaire-Dashboard) |
-| 🔧 **Backend** | Secured REST API, business logic, SAGE ERP integration | ASP.NET Core 8 · EF Core · SQL Server | [View →](https://github.com/chernien/novopharma-inventaire-backend) |
+| 📱 **Mobile** | Saisie terrain — scan codes-barres, lots, gammes, péremption | Ionic · Angular · Capacitor | [Voir →](https://github.com/chernien/novopharma-inventaire-mobileApp) |
+| 📊 **Dashboard** | Administration, double comptage, contrôle des écarts, rapports PDF/Excel | Angular 19 · TypeScript | [Voir →](https://github.com/chernien/novopharma-inventaire-Dashboard) |
+| 🔧 **Backend** | API REST sécurisée, logique métier, intégration ERP SAGE | ASP.NET Core 8 · EF Core · SQL Server | [Voir →](https://github.com/chernien/novopharma-inventaire-backend) |
 
-> **Key business logic:** dual-count reconciliation — two supervisors count independently, the system automatically detects discrepancies between theoretical and physical quantities.
-> *Produced @ Mediasoft*
+> **Logique métier clé :** réconciliation par double comptage — deux superviseurs comptent indépendamment, le système détecte automatiquement les écarts entre quantités théoriques et physiques.
+> *Produit @ Mediasoft*
 
 ---
 
 ### 🔏 MediaFact Desktop
 
-> Electronic invoicing platform with **XAdES digital signatures**, QR code generation, and ERP integration.
+> Plateforme de **facturation électronique** avec signatures numériques XAdES, génération de QR Code et intégration ERP.
 
 | | |
 |--|--|
 | **Stack** | WPF · C# · .NET · SQL Server |
-| **Context** | Production @ Mediasoft |
-| **Highlights** | XAdES-BES/T signatures · QR Code · ERP sync (DIVALTO / SAGE) |
+| **Contexte** | Production @ Mediasoft |
+| **Points clés** | Signatures XAdES-BES/T · QR Code · Synchronisation ERP (DIVALTO / SAGE) |
 
-[View Repository →](https://github.com/chernien/MediaFact-desktopApp)
+[Voir le dépôt →](https://github.com/chernien/MediaFact-desktopApp)
 
 ---
 
 ### ☪️ Haroon
 
-> Islamic short-form video mobile application — TikTok-style feed architecture for religious content.
+> Application mobile de vidéos islamiques courtes — architecture de feed vertical style TikTok pour du contenu religieux.
 
 | | |
 |--|--|
 | **Stack** | Flutter · Dart |
-| **Context** | Delivered @ MK-Consulting (2024) |
-| **Highlights** | Vertical video feed · content management · mobile-first UX |
+| **Contexte** | Livré @ MK-Consulting (2024) |
+| **Points clés** | Feed vidéo vertical · gestion de contenu · UX mobile-first |
 
-[View Repository →](https://github.com/chernien/Haroon)
+[Voir le dépôt →](https://github.com/chernien/Haroon)
 
 ---
 
 ### 🏋️ Fitness Flow
 
-> Fullstack fitness platform with **AI-powered workout and nutrition recommendations**.
+> Plateforme fitness fullstack avec **recommandations personnalisées par IA**.
 
 | | |
 |--|--|
-| **Stack** | Spring Boot · Angular · Python (ML service) |
-| **Architecture** | 3 services: backend API + web frontend + ML recommendation engine |
-| **Context** | Academic project |
+| **Stack** | Spring Boot · Angular · Python (service ML) |
+| **Architecture** | 3 services : API backend + frontend web + moteur de recommandation ML |
+| **Contexte** | Projet académique |
 
-[View Repository →](https://github.com/chernien/fitness-flow)
-
----
-
-## 💼 Professional Experience
-
-```
-2024 – Now   │ Mediasoft — Fullstack Developer
-             │   → Electronic invoicing platform + XAdES digital signatures
-             │   → WPF desktop app (MediaFact) + ASP.NET Core REST API
-             │   → Ionic mobile app + Flutter mobile app (both in production)
-             │   → ERP integrations: DIVALTO · SAGE · Wave
-             │   → Novopharma pharmaceutical inventory ecosystem (3 apps)
-             │   → TTN Enterprise Platform (in progress 🚧)
-             │
-2024         │ MK-Consulting — Flutter Developer
-             │   → Haroon: Islamic short-video platform (TikTok-style)
-             │
-2023 – 2024  │ SNDP — Fullstack Intern
-             │   → Fleet management system — Angular + TypeScript
-```
+[Voir le dépôt →](https://github.com/chernien/fitness-flow)
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Expériences Professionnelles
+
+```
+2024 – Auj.  │ Mediasoft — Développeur Fullstack
+             │   → Plateforme de facturation électronique + signatures numériques XAdES
+             │   → Application desktop WPF (MediaFact) + API REST ASP.NET Core
+             │   → Application mobile Ionic + Application mobile Flutter (toutes deux en production)
+             │   → Intégrations ERP : DIVALTO · SAGE · Wave
+             │   → Écosystème inventaire pharmaceutique Novopharma (3 applications)
+             │   → Plateforme enterprise TTN (en cours 🚧)
+             │
+2024         │ MK-Consulting — Développeur Flutter
+             │   → Haroon : plateforme de vidéos islamiques courtes (style TikTok)
+             │
+2023 – 2024  │ SNDP — Stagiaire Développeur Fullstack
+             │   → Système de gestion de parc automobile — Angular + TypeScript
+```
+
+---
+
+## 📊 Statistiques GitHub
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=chernien&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
@@ -190,24 +191,24 @@ Currently at **Mediasoft** (Tunisia) — I design and deliver end-to-end solutio
 
 ---
 
-## 🎯 Currently Learning
+## 🎯 En cours d'apprentissage
 
-| Topic | Goal |
-|-------|------|
-| 🐳 Docker & Kubernetes | Containerization + CI/CD pipelines |
-| 🏗️ Clean Architecture | DDD applied to .NET 8 & Spring Boot |
-| 📱 Advanced Flutter | Riverpod · BLoC · offline-first patterns |
+| Sujet | Objectif |
+|-------|----------|
+| 🐳 Docker & Kubernetes | Conteneurisation + pipelines CI/CD |
+| 🏗️ Clean Architecture | DDD appliqué à .NET 8 & Spring Boot |
+| 📱 Flutter Avancé | Riverpod · BLoC · patterns offline-first |
 
 ---
 
-## 📫 Let's Connect
+## 📫 Me Contacter
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amine-cherni)
-[![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amine.cherni@email.com)
+[![LinkedIn](https://img.shields.io/badge/Me_contacter_sur_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amine-cherni)
+[![Email](https://img.shields.io/badge/Envoyer_un_email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amine.cherni@email.com)
 
-📍 Ariana, Tunisia 🇹🇳 · Open to remote opportunities worldwide
+📍 Ariana, Tunisie 🇹🇳 · Ouvert aux opportunités remote dans le monde entier
 
 </div>
 
@@ -215,8 +216,9 @@ Currently at **Mediasoft** (Tunisia) — I design and deliver end-to-end solutio
 
 <div align="center">
 
-> *"Clean code is not written by following a set of rules. You know you are working on clean code*
-> *when each routine you read turns out to be pretty much what you expected."*
+> *« Écrire du code propre, ce n'est pas suivre un ensemble de règles.*
+> *On sait qu'on travaille sur du code propre quand chaque routine qu'on lit*
+> *correspond à peu près à ce qu'on attendait. »*
 > — Robert C. Martin
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" />
