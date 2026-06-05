@@ -17,7 +17,7 @@ Développeur **Fullstack passionné** avec 1,5+ ans d'expérience dans la concep
 
 Je maîtrise l'ensemble de la chaîne de développement — de la création d'interfaces Angular/Ionic réactives jusqu'à la conception d'APIs robustes en ASP.NET Core et Spring Boot, en passant par le développement d'applications mobiles cross-platform avec Flutter.
 
-Actuellement en poste chez **Mediasoft**, je contribue à des projets réels dans les domaines de la **facturation électronique**, de la **signature numérique**, de la **santé** et du **mobile**.
+Actuellement en poste chez **Mediasoft**, je contribue à des projets réels dans les domaines de la **facturation électronique**, de la **signature numérique**, de la **ERP** et du **mobile**.
 
 ---
 
