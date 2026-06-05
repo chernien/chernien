@@ -57,13 +57,51 @@ Actuellement en poste chez **Mediasoft**, je contribue à des projets réels dan
 |---|---|---|---|
 | 🔏 [MediaFact Desktop](https://github.com/chernien/MediaFact-desktopApp) | Application desktop de facturation électronique avec signature numérique XAdES | WPF · C# · .NET | 🏢 Mediasoft |
 | 🔏 MediaFact Backend | API REST — facturation électronique, signature XAdES, QR Code, intégration ERP | ASP.NET Core · C# · SQL Server | 🔒 Mediasoft (Privé) |
-| 💊 [Novopharma](https://github.com/chernien/novopharma) | Application mobile cross-platform de gestion pharmaceutique | Ionic · Angular · Capacitor | 🏢 Mediasoft |
+| 💊 **Novopharma Inventaire** *(écosystème)* | Solution complète d'inventaire : mobile + dashboard + API .NET ([détails ↓](#-focus-projet--écosystème-novopharma-inventaire)) | Ionic · Angular · .NET 8 | 🏢 Mediasoft |
 | 🌐 TTN Platform | Plateforme web enterprise avec API REST — **🚧 En cours de développement** | .NET · C# · Angular | 🔒 Mediasoft (Privé) |
 | ☪️ [Haroon](https://github.com/chernien/Haroon) | Application mobile de contenu islamique court — inspirée de TikTok | Flutter · Dart | 🏢 MK-Consulting |
 | 🏋️ [Fitness Flow](https://github.com/chernien/fitness-flow) | Plateforme fitness fullstack avec recommandations par IA | Spring Boot · Angular · Python | 🎓 Académique |
 
 > 🔒 Les projets marqués **Privé** contiennent du code métier propriétaire.
 > Le code source est disponible **sur demande lors d'entretiens techniques**.
+
+---
+
+## 💊 Focus Projet — Écosystème Novopharma Inventaire
+
+Solution complète de **gestion d'inventaire physique pharmaceutique**, de la saisie terrain jusqu'à l'intégration ERP **SAGE**. Trois applications complémentaires autour d'une même API et d'une base SQL Server.
+
+<div align="center">
+
+```text
+┌──────────────────┐     ┌────────────────────┐
+│    App Mobile    │     │   Dashboard Web    │
+│  Ionic·Angular   │     │     Angular 19     │
+│    Capacitor     │     │                    │
+│ (saisie terrain) │     │ (admin & reporting)│
+└────────┬─────────┘     └─────────┬──────────┘
+         │       HTTP / JWT        │
+         └────────────┬────────────┘
+                      ▼
+        ┌──────────────────────────┐
+        │    API ASP.NET Core 8    │
+        │  JWT · EF Core · Swagger │
+        └────────────┬─────────────┘
+                     ▼
+        ┌──────────────────────────┐
+        │   SQL Server + SAGE ERP  │
+        └──────────────────────────┘
+```
+
+</div>
+
+| Composant | Rôle | Stack | Repo |
+|---|---|---|---|
+| 📱 **Mobile** | Saisie & comptage sur le terrain (scan code-barres, lots, gammes, péremption) | `Ionic` · `Angular` · `Capacitor` | [novo-inventaire-mobile](https://github.com/chernien/novo-inventaire-mobile) |
+| 📊 **Dashboard** | Administration, double comptage, contrôle des écarts, rapports PDF/Excel | `Angular 19` · `TypeScript` | [novo-inventaire-dashboard](https://github.com/chernien/novo-inventaire-dashboard) |
+| 🔧 **Backend** | API REST sécurisée, logique métier, intégration ERP SAGE | `ASP.NET Core 8` · `EF Core` · `SQL Server` | [novo-inventaire-back](https://github.com/chernien/novo-inventaire-back) |
+
+> 🧠 **Logique métier clé** : réconciliation par **double comptage** (deux superviseurs comptent indépendamment), détection automatique des écarts théorique/physique et calcul de la quantité finale. 🏢 *Mediasoft*
 
 ---
 
