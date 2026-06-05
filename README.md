@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=210&section=header&text=Cherni%20Amine&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Engineer%20%7C%20.NET%20%C2%B7%20Angular%20%C2%B7%20Flutter&descAlignY=56&descSize=22" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=210&section=header&text=Cherni%20Amine&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Developer%20%7C%20.NET%20%C2%B7%20Angular%20%C2%B7%20Flutter&descAlignY=56&descSize=22" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=620&lines=Fullstack+Engineer+%7C+1.5%2B+yrs+production+exp;ASP.NET+Core+%2B+Angular+%2B+Flutter+%2B+Ionic;E-invoicing+%7C+XAdES+%7C+ERP+integrations;Building+real+software+in+Tunisia+%F0%9F%87%B9%F0%9F%87%B3)](https://github.com/chernien)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=620&lines=Fullstack+Developer+%7C+1.5%2B+yrs+production+exp;ASP.NET+Core+%2B+Angular+%2B+Flutter+%2B+Ionic;E-invoicing+%7C+XAdES+%7C+ERP+integrations;Building+real+software+in+Tunisia+%F0%9F%87%B9%F0%9F%87%B3)](https://github.com/chernien)
 
 <br/>
 
