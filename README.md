@@ -206,7 +206,7 @@ Actuellement chez **Mediasoft** (Tunisie) — je conçois et délivre des soluti
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Me_contacter_sur_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amine-cherni)
-[![Email](https://img.shields.io/badge/Envoyer_un_email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amine.cherni@email.com)
+[![Email](https://img.shields.io/badge/Envoyer_un_email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chernienamine@gmail.com)
 
 📍 Ariana, Tunisie 🇹🇳 · Ouvert aux opportunités remote dans le monde entier
 
