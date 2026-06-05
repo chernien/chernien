@@ -97,9 +97,9 @@ Solution complète de **gestion d'inventaire physique pharmaceutique**, de la sa
 
 | Composant | Rôle | Stack | Repo |
 |---|---|---|---|
-| 📱 **Mobile** | Saisie & comptage sur le terrain (scan code-barres, lots, gammes, péremption) | `Ionic` · `Angular` · `Capacitor` | [novo-inventaire-mobile](https://github.com/chernien/novo-inventaire-mobile) |
-| 📊 **Dashboard** | Administration, double comptage, contrôle des écarts, rapports PDF/Excel | `Angular 19` · `TypeScript` | [novo-inventaire-dashboard](https://github.com/chernien/novo-inventaire-dashboard) |
-| 🔧 **Backend** | API REST sécurisée, logique métier, intégration ERP SAGE | `ASP.NET Core 8` · `EF Core` · `SQL Server` | [novo-inventaire-back](https://github.com/chernien/novo-inventaire-back) |
+| 📱 **Mobile** | Saisie & comptage sur le terrain (scan code-barres, lots, gammes, péremption) | `Ionic` · `Angular` · `Capacitor` | [novo-inventaire-mobile](https://github.com/chernien/novopharma-inventaire-mobileApp) |
+| 📊 **Dashboard** | Administration, double comptage, contrôle des écarts, rapports PDF/Excel | `Angular 19` · `TypeScript` | [novo-inventaire-dashboard](https://github.com/chernien/novopharma-inventaire-Dashboard) |
+| 🔧 **Backend** | API REST sécurisée, logique métier, intégration ERP SAGE | `ASP.NET Core 8` · `EF Core` · `SQL Server` | [novo-inventaire-back](https://github.com/chernien/novopharma-inventaire-backend) |
 
 > 🧠 **Logique métier clé** : réconciliation par **double comptage** (deux superviseurs comptent indépendamment), détection automatique des écarts théorique/physique et calcul de la quantité finale. 🏢 *Mediasoft*
 
