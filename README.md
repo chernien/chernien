@@ -232,16 +232,6 @@ Actuellement chez **Mediasoft** (Tunisie) — je conçois et délivre des soluti
 
 ---
 
-## 🎯 En cours d'apprentissage
-
-| Sujet | Objectif |
-|-------|----------|
-| 🐳 Docker & Kubernetes | Conteneurisation + pipelines CI/CD |
-| 🏗️ Clean Architecture | DDD appliqué à .NET 8 & Spring Boot |
-| 📱 Flutter Avancé | Riverpod · BLoC · patterns offline-first |
-
----
-
 ## 📫 Me Contacter
 
 <div align="center">
