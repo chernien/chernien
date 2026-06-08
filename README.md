@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=210&section=header&text=Cherni%20Amine&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Développeur%20Fullstack%20%7C%20.NET%20%C2%B7%20Angular%20%C2%B7%20Flutter&descAlignY=56&descSize=22" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=210&section=header&text=Cherni%20Amine&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Ingénieur%20Fullstack%20%7C%20.NET%20%C2%B7%20Angular%20%C2%B7%20Flutter&descAlignY=56&descSize=22" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=660&lines=Développeur+Fullstack+%7C+1%2C5+an+d%27expérience+en+prod;ASP.NET+Core+%2B+Angular+%2B+Flutter+%2B+Ionic;Facturation+électronique+%7C+XAdES+%7C+ERP;Je+livre+des+applications+réelles+en+Tunisie+%F0%9F%87%B9%F0%9F%87%B3)](https://github.com/chernien)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=660&lines=Ingénieur+Fullstack+%7C+1%2C5+an+d%27expérience+en+prod;ASP.NET+Core+%2B+Angular+%2B+Flutter+%2B+Ionic;Facturation+électronique+%7C+XAdES+%7C+ERP;Je+livre+des+applications+réelles+en+Tunisie+%F0%9F%87%B9%F0%9F%87%B3)](https://github.com/chernien)
 
 <br/>
 
@@ -21,7 +21,7 @@
 Actuellement chez **Mediasoft** (Tunisie) — je conçois et délivre des solutions de bout en bout dans les domaines de la **facturation électronique**, de l'**intégration ERP**, du **mobile cross-platform** et du **desktop enterprise**. J'interviens sur l'ensemble de la chaîne : frontends Angular, APIs ASP.NET Core, applications mobiles Flutter/Ionic, et applications desktop WPF.
 
 - 🏢 **Mediasoft** — Développeur Fullstack (2024 – aujourd'hui)
-- 🔏 Développeur en **signatures numériques XAdES** & **conformité facturation électronique**
+- 🔏 Spécialiste en **signatures numériques XAdES** & **conformité facturation électronique**
 - 📱 Mobile-first : **Flutter** (production) + **Ionic + Capacitor** (production)
 - 🔗 **Intégrations ERP** : SAGE, DIVALTO, Wave
 - 🌍 Basé à **Ariana, Tunisie** — ouvert aux opportunités remote
@@ -112,6 +112,46 @@ Actuellement chez **Mediasoft** (Tunisie) — je conçois et délivre des soluti
 
 ---
 
+### 🛍️ Olympia — Plateforme E-Commerce B2B
+
+> Solution de **vente B2B en ligne** adossée à un ERP : catalogue, tarification personnalisée par client et prise de commande.
+> Storefront Angular + API ASP.NET Core partageant la base ERP **DIVA**, avec notifications SMS.
+
+<div align="center">
+
+```
+┌──────────────────────┐        ┌──────────────────────┐
+│   🛒 Storefront B2B  │        │   👔 Espace VRP      │
+│   Angular 15         │        │   (commerciaux)      │
+│  TypeScript · RxJS   │        │  Tarifs & remises    │
+│  Material · Molla    │        │  par client          │
+└──────────┬───────────┘        └──────────┬───────────┘
+           │           HTTP / CORS          │
+           └──────────────┬────────────────┘
+                          ▼
+          ┌───────────────────────────────┐
+          │     🔧 API ASP.NET Core 6     │
+          │  Repository · EF Core · Swagger│
+          │  Notifications SMS (WinSmsPro) │
+          └───────────────┬───────────────┘
+                          ▼
+          ┌───────────────────────────────┐
+          │   🗄️ SQL Server + ERP DIVA    │
+          └───────────────────────────────┘
+```
+
+</div>
+
+| Composant | Rôle | Stack | Lien |
+|-----------|------|-------|------|
+| 🛒 **Storefront** | Catalogue, panier, tarifs/remises par client, passage de commande | Angular 15 · TypeScript · RxJS · Material | [Voir →](https://github.com/chernien/olympia-client) |
+| 🔧 **Backend** | API REST, tarification B2B, commandes, SMS, intégration ERP DIVA | ASP.NET Core 6 · EF Core · SQL Server | [Voir →](https://github.com/chernien/olympia-api) |
+
+> **Logique métier clé :** tarification contextuelle — un même article n'a pas le même prix selon le client, son barème et ses remises. L'API résout le tarif net, transforme le panier en commande et déclenche une confirmation SMS.
+> *Produit @ Mediasoft*
+
+---
+
 ### 🔏 MediaFact Desktop
 
 > Plateforme de **facturation électronique** avec signatures numériques XAdES, génération de QR Code et intégration ERP.
@@ -163,6 +203,7 @@ Actuellement chez **Mediasoft** (Tunisie) — je conçois et délivre des soluti
              │   → Application mobile Ionic + Application mobile Flutter (toutes deux en production)
              │   → Intégrations ERP : DIVALTO · SAGE · Wave
              │   → Écosystème inventaire pharmaceutique Novopharma (3 applications)
+             │   → Plateforme e-commerce B2B Olympia (API .NET + storefront Angular, ERP DIVA)
              │   → Plateforme enterprise TTN (en cours 🚧)
              │
 2024         │ MK-Consulting — Développeur Flutter
@@ -206,7 +247,7 @@ Actuellement chez **Mediasoft** (Tunisie) — je conçois et délivre des soluti
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Me_contacter_sur_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amine-cherni)
-[![Email](https://img.shields.io/badge/Envoyer_un_email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chernienamine@gmail.com)
+[![Email](https://img.shields.io/badge/Envoyer_un_email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amine.cherni@email.com)
 
 📍 Ariana, Tunisie 🇹🇳 · Ouvert aux opportunités remote dans le monde entier
 
