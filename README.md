@@ -144,8 +144,8 @@ Actuellement chez **Mediasoft** (Tunisie) — je conçois et délivre des soluti
 
 | Composant | Rôle | Stack | Lien |
 |-----------|------|-------|------|
-| 🛒 **Storefront** | Catalogue, panier, tarifs/remises par client, passage de commande | Angular 15 · TypeScript · RxJS · Material | [Voir →](https://github.com/chernien/olympia-client) |
-| 🔧 **Backend** | API REST, tarification B2B, commandes, SMS, intégration ERP DIVA | ASP.NET Core 6 · EF Core · SQL Server | [Voir →](https://github.com/chernien/olympia-api) |
+| 🛒 **Storefront** | Catalogue, panier, tarifs/remises par client, passage de commande | Angular 15 · TypeScript · RxJS · Material | [Voir →](https://github.com/chernien/olympia-dashboard) |
+| 🔧 **Backend** | API REST, tarification B2B, commandes, SMS, intégration ERP DIVA | ASP.NET Core 6 · EF Core · SQL Server | [Voir →](https://github.com/chernien/olympia-backend) |
 
 > **Logique métier clé :** tarification contextuelle — un même article n'a pas le même prix selon le client, son barème et ses remises. L'API résout le tarif net, transforme le panier en commande et déclenche une confirmation SMS.
 > *Produit @ Mediasoft*
